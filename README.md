@@ -27,7 +27,7 @@ I'm a student of Applied Computer Science at Wroclaw University of Technology. P
 [![Kamotek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamotek&show_icons=true&theme=radical)](https://github.com/Kamotek)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamotek&layout=compact)](https://github.com/Kamotek)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Kamotek?theme=unicorn)](https://leetcode.com/kamotek123)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kamotek123?theme=unicorn)](https://leetcode.com/kamotek123)
 
 ---
 
