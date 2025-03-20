@@ -33,7 +33,7 @@ I'm a student of Applied Computer Science at Wroclaw University of Technology. P
 
 ## Visitor Count
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Kamotek)
 
 ---
 
