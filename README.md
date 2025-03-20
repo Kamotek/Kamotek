@@ -39,9 +39,8 @@ I'm a student of Applied Computer Science at Wroclaw University of Technology. P
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/your-twitter-handle)  
-[![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](linkedin.com/in/kamil-badowicz-844210244)  
+[![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:kamotek123@gmail.com)
 
 ---
 
