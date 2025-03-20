@@ -15,9 +15,10 @@ I'm a student of Applied Computer Science at Wroclaw University of Technology. P
 - 💡 **Solid fundamentals** in software engineering, algorithms & data structures.
 - 💻 **Technologies learned:** Basics of computer networks & operating systems, programming in **Java**, **C++**, **SQL**, Python, and web technologies such as React, JavaScript, HTML.
 - 🔧 **Specializations:**  
-  - **Java:** Expertise with Spring and related frameworks.
-  - **C++ & Rust:** Familiarity with low-level programming.
-- 🐧 I'm also a huge Linux enthusiast with experience of everyday usage for the past few years.
+  - **Java:** Expertise with Spring and related frameworks - I've made websites, desktop apps and solved minor tasks.
+  - **C++:** Highly familiar with this language - I've solved minor algorithms, made project related to genetic algorithms and optimization problems.
+  - **Rust:** Brand new thing that i decided to learn in my free time, i've made an app that monitors device resources and uploads it into a PostgreSQL database.
+- 🐧 I'm also a huge Linux enthusiast with experience of everyday usage for the past few years, i've set up some servers etc.
 - 🧩 I also enjoy solving problems on [LeetCode](https://leetcode.com/).
 
 ---
