@@ -1,6 +1,6 @@
 <!-- Header with an animated banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Kamotek&animation=fadeIn&type=waving&color=gradient&height=100" alt="Kamotek Banner"/>
+  <img src="https://capsule-render.vercel.app/api?text=Kamil&animation=fadeIn&type=waving&color=gradient&height=100" alt="Kamotek Banner"/>
 </p>
 
 # Hi there, I'm **Kamil Badowicz** 👋
