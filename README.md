@@ -1,18 +1,61 @@
-## Hi there 👋
+<!-- Header with an animated banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Kamotek&animation=fadeIn&type=waving&color=gradient&height=100" alt="Kamotek Banner"/>
+</p>
 
-<!--
-**Kamotek/Kamotek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm **Kamil Badowicz** 👋
 
-Here are some ideas to get you started:
+I'm a student of Applied Computer Science at Wroclaw University of Technology. Passionate about coding, I love exploring new technologies and I'm highly project-oriented—I thrive on tackling diverse, exciting projects and choosing the most suitable technology for each challenge!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamotek)](https://github.com/anuraghazra/github-readme-stats)
+## About Me
+
+- 🎓 **Student** in Applied Computer Science at Politechnika Wrocławska.
+- 💡 **Solid fundamentals** in software engineering, algorithms & data structures.
+- 💻 **Technologies learned:** Basics of computer networks & operating systems, programming in **Java**, **Python**, **C++**, **SQL**, and web technologies such as **React**, **JavaScript**, **HTML**, **Kotlin**, **Scala**, **OCaml**.
+- 🔧 **Specializations:**  
+  - **Java:** Expertise with Spring and related frameworks.
+  - **C++ & Rust:** Familiarity with low-level programming.
+  - **Web Development:** Building websites using Vue.js and React.
+- 🧩 I also enjoy solving problems on [LeetCode](https://leetcode.com/) to sharpen my skills.
+
+---
+
+## GitHub Statistics
+
+[![Kamotek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamotek&show_icons=true&theme=radical)](https://github.com/Kamotek)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamotek&layout=compact)](https://github.com/Kamotek)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Kamotek?theme=unicorn)](https://leetcode.com/Kamotek)
+
+---
+
+## Visitor Count
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/Kamotek" alt="Kamotek's Profile Views"/>
+</p>
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/your-twitter-handle)  
+[![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:your-email@example.com)
+
+---
+
+## Latest Projects
+
+Here are some of my recent projects:
+
+- [**Project One**](https://github.com/Kamotek/Project-One) - Brief description of Project One.
+- [**Project Two**](https://github.com/Kamotek/Project-Two) - Brief description of Project Two.
+- [**Project Three**](https://github.com/Kamotek/Project-Three) - Brief description of Project Three.
+
+Feel free to check them out!
+
+---
+
