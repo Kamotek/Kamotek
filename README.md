@@ -13,12 +13,12 @@ I'm a student of Applied Computer Science at Wroclaw University of Technology. P
 
 - 🎓 **Student** in Applied Computer Science at Politechnika Wrocławska.
 - 💡 **Solid fundamentals** in software engineering, algorithms & data structures.
-- 💻 **Technologies learned:** Basics of computer networks & operating systems, programming in **Java**, **Python**, **C++**, **SQL**, and web technologies such as **React**, **JavaScript**, **HTML**, **Kotlin**, **Scala**, **OCaml**.
+- 💻 **Technologies learned:** Basics of computer networks & operating systems, programming in **Java**, **C++**, **SQL**, Python, and web technologies such as React, JavaScript, HTML.
 - 🔧 **Specializations:**  
   - **Java:** Expertise with Spring and related frameworks.
   - **C++ & Rust:** Familiarity with low-level programming.
-  - **Web Development:** Building websites using Vue.js and React.
-- 🧩 I also enjoy solving problems on [LeetCode](https://leetcode.com/) to sharpen my skills.
+- 🐧 I'm also a huge Linux enthusiast with experience of everyday usage for the past few years.
+- 🧩 I also enjoy solving problems on [LeetCode](https://leetcode.com/).
 
 ---
 
@@ -34,7 +34,7 @@ I'm a student of Applied Computer Science at Wroclaw University of Technology. P
 ## Visitor Count
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/Kamotek" alt="Kamotek's Profile Views"/>
+![](https://komarev.com/ghpvc/?username=Kamotek)
 </p>
 
 ---
