@@ -49,9 +49,9 @@ I'm a student of Applied Computer Science at Wroclaw University of Technology. P
 
 Here are some of my recent projects:
 
-- [**Project One**](https://github.com/Kamotek/Project-One) - Brief description of Project One.
-- [**Project Two**](https://github.com/Kamotek/Project-Two) - Brief description of Project Two.
-- [**Project Three**](https://github.com/Kamotek/Project-Three) - Brief description of Project Three.
+- [**Resource monitor**][(https://github.com/Kamotek/Project-One](https://github.com/Kamotek/resource-monitor)) - Rust app that monitors your resources.
+- [**Hospitation System**](https://github.com/Michal58/HospitationSystem) - JavaSpring web app that allows you to coordinate hospiations on university.
+- [**Optimization Algorithm**](https://github.com/Kamotek/optimization-algorithms) - C++ app that calculates paths based on Wrocław MPK logs.
 
 Feel free to check them out!
 
